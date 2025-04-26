@@ -12,7 +12,7 @@ A study journal and documentation of my cybersecurity journey.
 - [ ] [Boot dev Free Go Programming Course](https://youtu.be/un6ZyFkqFKo)
 - [ ] [BroCode Python Course](https://www.youtube.com/watch?v=XKHEtdqhLK8)
 - [ ] [ThePrimeagen Data structures and algorithms](https://frontendmasters.com/courses/algorithms/)
-- [ ] [BroCode Data Structures and Algorithms](https://youtu.be/CBYHwZcbD-s)
+~~- [ ] [BroCode Data Structures and Algorithms](https://youtu.be/CBYHwZcbD-s)~~
 - [ ] [HackerRank Python](https://www.hackerrank.com/domains/python)
 - [ ] [TryHackMe (FREE ROADMAP)](https://tryhackme.com/hacktivities)
 	- [ ] Cyber Security Basics

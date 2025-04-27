@@ -46,7 +46,18 @@ A study journal and documentation of my cybersecurity journey.
 - [pwn.college Practices (FREE)](https://pwn.college/)
 - [HackThisSite Training](https://www.hackthissite.org/)
 - [Vulnhub VM](https://www.vulnhub.com/)
-	
+
+## Projects
+- [ ] [Task and log automation]()
+- [ ] [Vulnerability Scanner]()
+- [ ] [VMs with intentional vulnerabilities]()
+- [ ] [File encryption and decryption system]()
+- [ ] [Simple intrusion detection system]()
+- [ ] [Secure web login platform]()
+- [ ] [Forensic analysis project]()
+- [ ] [Network packet analysis tool]()
+- [ ] [CTFs]()
+ 
 ## Languages and Tools
 - Python
 - Shell/Bash/Zsh script

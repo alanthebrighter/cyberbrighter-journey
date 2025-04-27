@@ -57,6 +57,9 @@ A study journal and documentation of my cybersecurity journey.
 - [ ] [Forensic analysis project]()
 - [ ] [Network packet analysis tool]()
 - [ ] [CTFs]()
+
+### Ideas for the projects
+
  
 ## Languages and Tools
 - Python
@@ -73,7 +76,8 @@ A study journal and documentation of my cybersecurity journey.
 - [GO]()  
 - [Data Structures and Algorithms]()  
 - [Cybersecurity/Pentest]()  
-- [Labs/CTF]()  
+- [Labs/CTF]()
+
 ## Socials
 - [TryHackMe:alanthebrighter](https://tryhackme.com/p/alanthebrighter)  
 - [HackerRank:alanthebrighter](https://www.hackerrank.com/profile/alanthebrighter)  

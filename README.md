@@ -11,12 +11,12 @@ A study journal and documentation of my cybersecurity journey.
 | Course                                                                                   | Progress       |
 |-------------------------------------------------------------------------------------------|----------------|
 | [Boot.dev Free Git Course](https://youtu.be/rH3zE7VlIMs)                                  | [██████████] 100% |
+| [Boot.dev Free Linux Course](https://youtu.be/v392lEyM29A)                               | [██████████] 100%  |
 
 
 ### In Progress
 | Course                                                                                   | Progress       |
 |-------------------------------------------------------------------------------------------|----------------|
-| [Boot.dev Free Linux Course](https://youtu.be/v392lEyM29A)                               | [██████░░░░] 64%  |
 | [BroCode Python Course](https://youtu.be/ix9cRaBkVe0)                     		    | [██████░░░░] 68%  |
 | [HackerRank Python](https://www.hackerrank.com/domains/python)                            | [███░░░░░░░] 32%  |
 | [TryHackMe (FREE ROADMAP)](https://tryhackme.com/hacktivities)                            | [█░░░░░░░░░] 15%  |

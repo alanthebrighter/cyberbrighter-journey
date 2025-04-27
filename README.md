@@ -48,7 +48,7 @@ A study journal and documentation of my cybersecurity journey.
 - [Vulnhub VM](https://www.vulnhub.com/)
 
 ## Projects
-- [ ] [Task and log automation]()
+- [ ] [Task and log automation](TaskNLogs/README.md)
 - [ ] [Vulnerability Scanner]()
 - [ ] [VMs with intentional vulnerabilities]()
 - [ ] [File encryption and decryption system]()

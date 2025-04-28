@@ -17,7 +17,7 @@ A study journal and documentation of my cybersecurity journey.
 ### In Progress
 | Course                                                                                   | Progress       |
 |-------------------------------------------------------------------------------------------|----------------|
-| [BroCode Python Course](https://youtu.be/ix9cRaBkVe0)                     		    | [██████░░░░] 68%  |
+| [BroCode Python Course](https://youtu.be/ix9cRaBkVe0)                     		    | [███████░░░] 76%  |
 | [HackerRank Python](https://www.hackerrank.com/domains/python)                            | [███░░░░░░░] 32%  |
 | [TryHackMe (FREE ROADMAP)](https://tryhackme.com/hacktivities)                            | [█░░░░░░░░░] 15%  |
 | - Cyber Security Basics                                                                   | [███████░░░] 75%  |

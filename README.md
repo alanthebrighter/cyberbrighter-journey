@@ -19,9 +19,9 @@ A study journal and documentation of my cybersecurity journey.
 |-------------------------------------------------------------------------------------------|----------------|
 | [BroCode Python Course](https://youtu.be/ix9cRaBkVe0)                     		    | [███████░░░] 76%  |
 | [HackerRank Python](https://www.hackerrank.com/domains/python)                            | [███░░░░░░░] 32%  |
-| [TryHackMe (FREE ROADMAP)](https://tryhackme.com/hacktivities)                            | [█░░░░░░░░░] 15%  |
-| - Cyber Security Basics                                                                   | [███████░░░] 75%  |
-| - Fundamental Skills                                                                      | [░░░░░░░░░░] 0%   |
+| [TryHackMe (FREE ROADMAP)](https://tryhackme.com/hacktivities)                            | [██░░░░░░░░] 29%  |
+| - Cyber Security Basics                                                                   | [██████████] 100%  |
+| - Fundamental Skills                                                                      | [██░░░░░░░░] 20%   |
 | - Career Skills: Pentester                                                                | [░░░░░░░░░░] 0%   |
 
 ### Planned

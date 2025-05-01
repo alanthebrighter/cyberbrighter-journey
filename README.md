@@ -23,6 +23,7 @@ A study journal and documentation of my cybersecurity journey.
 | - Cyber Security Basics                                                                   | [██████████] 100%  |
 | - Fundamental Skills                                                                      | [██░░░░░░░░] 20%   |
 | - Career Skills: Pentester                                                                | [░░░░░░░░░░] 0%   |
+| [Hank Hackerson Linux+ Training](https://youtube.com/playlist?list=PLKJGe-yb9iQZS6Gr5J_hGgob87k7Ez24M&si=p4tmXhygrdnmtrAZ) | [█░░░░░░░░░] 9%   (69/784 minutes)|
 
 ### Planned
 | Course                                                                                   | Progress       |

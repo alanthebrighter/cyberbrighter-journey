@@ -1,6 +1,6 @@
 #! /bin/bash
 
-REPO=~/Documents/GitHub/hyprbrighter/.config/ 
+REPO=$HOME/Documents/GitHub/hyprbrighter/.config/ 
 
 CONFIGS=(btop cava ctpv fastfetch hypr hyprshot kitty MangoHud mpv nwg-look rofi set_wallpaper swaync swww wal waybar wlogout yazi zsh)
 

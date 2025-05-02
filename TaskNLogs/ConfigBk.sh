@@ -26,6 +26,11 @@ mkdir -p "$(dirname "$LOG_FILE")"
 	cd "$REPO" || exit
 	
 	git checkout main
+	
+	if git diff --quiet HEAD -- . ':!autolog'; then
+		echo "[=] Only Only autolog changes were detected - nothing will be sent."
+		exit 0
+	fi
 
 	if [[ -n $(git status --porcelain) ]]; then
 		echo "[+] changes detected - syncing with remote first..."

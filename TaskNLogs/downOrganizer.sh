@@ -6,7 +6,8 @@ echo "[+] Creating directories if not exist."
 DOWNDIR=~/Downloads/
 OLDDIR="$DOWNDIR/Old"
 mkdir -p "$OLDDIR" "$DOWNDIR/Videos" "$DOWNDIR/Documents" "$DOWNDIR/Compressed" "$DOWNDIR/Images" "$DOWNDIR/Scripts"
-CLEANLOG="$DOWNDIR/cleanup.log"
+CLEANLOG="$DOWNDIR/Downorganizer.log"
+
 
 echo "[+] Checking for 7 days old files"
 
